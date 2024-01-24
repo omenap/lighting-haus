@@ -1,0 +1,31 @@
+.headerContent {
+    display: flex;
+    justify-content: space-between;
+    padding: 8px 0;
+}
+
+.headerContent .searchBar {
+    border-radius: 5px;
+    height: 40px;
+    margin: auto 0;
+    display: flex;
+    border: 0.5px solid #4F4F4F;
+}
+.headerContent .searchBar input {
+   border: none;
+   width: 250px;
+}
+.headerContent .searchBar svg {
+    margin: auto 14px;
+
+}
+
+.menu {
+    display: flex;
+    text-align: center;
+}
+
+.menu .menuItem {
+    margin: auto 15px;
+    height: fit-content;
+}

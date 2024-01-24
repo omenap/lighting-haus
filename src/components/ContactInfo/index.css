@@ -1,0 +1,20 @@
+.contactInfo{
+    background-color: black;
+    color: white;
+    width: 100%;
+
+}
+.contactInfo .contactInfoContent{
+    padding: 18px 0;
+    display: flex;
+}
+.contactInfo .contacts{
+    display: flex;
+    margin-right: 15px;
+}
+.contactInfo .contacts svg{
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: 10px;
+    
+}
