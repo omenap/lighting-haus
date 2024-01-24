@@ -32,7 +32,8 @@ function Header() {
                 </div>
             </div>
             <hr />
-            
+            <hr />
+
         </header>
     )
 }
