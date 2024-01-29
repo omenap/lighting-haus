@@ -85,3 +85,13 @@ export function LogoIcon() {
         </svg>
     )
 }
+
+export function SliderIcon() {
+    return (
+        <svg xmlns="http://www.w3.org/2000/svg" width="128" height="3" viewBox="0 0 128 3" fill="none">
+            <line y1="1.5" x2="32" y2="1.5" stroke="#F4811F" stroke-width="3" />
+            <line x1="48" y1="2.5" x2="80" y2="2.5" stroke="white" />
+            <line x1="96" y1="2.5" x2="128" y2="2.5" stroke="white" />
+        </svg>
+    )
+}
